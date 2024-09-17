@@ -1,0 +1,18 @@
+cd
+dir
+git add .
+cd "Pervaya laba"
+git clone 
+git clone https://github.com/Xerexcidex/laba1.git
+dir
+git add .
+git commit -m "update"
+dir 
+dir
+git commit -m "update"
+cd laba1
+git commit -m "update"
+git add .
+git commit -m "update"
+git push
+doskey/history > laba1.txt
